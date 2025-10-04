@@ -1,0 +1,8 @@
+{
+    "pageHeader": "some header value",
+    "pageFooter": "some footer value",
+    "key[]": ["some test key 1", "some test key 2", "some test key 3"],
+    "list": ["some list value A", "some list value B", "some list value C"],
+    "description": ["paragraph 1 line 1.\nparagraph 1 line 2", "paragraph 2."],
+    "reference": "some reference value"
+}
