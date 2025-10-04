@@ -2,7 +2,7 @@
 
 ## Description
 
-This java program parses an existing .docx word document and replace template variable pattern ```${xxx}``` with provided values.
+This java program parses an existing .docx word document and replaces template variable pattern ```${xxx}``` with provided values.
 
 For example, given the following json mapping:
 ```
